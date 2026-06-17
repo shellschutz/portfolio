@@ -1,0 +1,20 @@
+{
+  "category": "Professional Projects",
+  "projects":
+  [
+    {
+      "title":"HAPIGA's Mobile Games (2024 - 2025)",
+      "thumbnail":"images/placeholder.png",
+      "tags":"Game Designer,Sound Designer",
+      "link":"",
+      "docSource":""
+    },
+    {
+      "title":"KONG's Facebook Games (2024)",
+      "thumbnail":"images/placeholder.png",
+      "tags":"Programmer,Sound Designer",
+      "link":"",
+      "docSource":""
+    }
+  ]
+}

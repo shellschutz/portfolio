@@ -1,0 +1,34 @@
+{
+  "category": "Featured Projects",
+  "projects":
+  [
+    {
+      "title":"Vitalis (2026 - Ongoing)",
+      "thumbnail":"images/thumbnail-vitalis2.png",
+      "tags":"Programmer,Artist,Sound Designer,Music Composer",
+      "link":"",
+      "docSource":"pages/vitalis.html"
+    },
+    {
+      "title":"Defragmenting (2025 - Ongoing)",
+      "thumbnail":"images/thumbnail-defragmenting.png",
+      "tags":"Programmer,Artist,Sound Designer,Music Composer",
+      "link":"",
+      "docSource":"pages/defragmenting.html"
+    },
+    {
+      "title":"Fragile (2025)",
+      "thumbnail":"images/thumbnail-fragile.png",
+      "tags":"Programmer,Artist,Sound Designer",
+      "link":"",
+      "docSource":"pages/fragile.html"
+    },
+    {
+      "title":"Azrael (2024)",
+      "thumbnail":"images/thumbnail-azrael.png",
+      "tags":"Programmer,Sound Designer,Music Composer",
+      "link":"",
+      "docSource":"pages/azrael.html"
+    }
+  ]
+}

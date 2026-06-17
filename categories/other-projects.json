@@ -1,0 +1,48 @@
+{
+  "category": "Other Projects",
+  "projects":
+  [
+    {
+      "title":"Ctrl-A Prototype (2024)",
+      "thumbnail":"images/placeholder.png",
+      "tags":"Programmer,Artist,Game Designer,Sound Designer,Music Composer",
+      "link":"",
+      "docSource":""
+    },
+    {
+      "title":"RTS Simulator (2024)",
+      "thumbnail":"images/placeholder.png",
+      "tags":"Programmer,Game Designer",
+      "link":"",
+      "docSource":""
+    },
+    {
+      "title":"Neutrolize (2023)",
+      "thumbnail":"images/placeholder.png",
+      "tags":"Programmer,Artist,Game Designer,Sound Designer,Music Composer",
+      "link":"",
+      "docSource":""
+    },
+    {
+      "title":"Fitting In Prototype (2023)",
+      "thumbnail":"images/placeholder.png",
+      "tags":"Game Designer,Programmer",
+      "link":"",
+      "docSource":""
+    },
+    {
+      "title":"Together We Shall Die (2023)",
+      "thumbnail":"images/placeholder.png",
+      "tags":"Artist,Game Designer,Sound Designer,Music Composer",
+      "link":"",
+      "docSource":""
+    },
+        {
+      "title":"Early Prototypes (2023)",
+      "thumbnail":"images/placeholder.png",
+      "tags":"Programmer,Game Designer,Sound Designer",
+      "link":"",
+      "docSource":""
+    }
+  ]
+}
