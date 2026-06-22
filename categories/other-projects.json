@@ -7,14 +7,14 @@
       "thumbnail":"images/placeholder.png",
       "tags":"Programmer,Artist,Game Designer,Sound Designer,Music Composer",
       "link":"",
-      "docSource":""
+      "docSource":"pages/blank.html"
     },
     {
       "title":"RTS Simulator (2024)",
       "thumbnail":"images/placeholder.png",
       "tags":"Programmer,Game Designer",
       "link":"",
-      "docSource":""
+      "docSource":"pages/blank.html"
     },
     {
       "title":"Neutrolize (2023)",
@@ -28,21 +28,21 @@
       "thumbnail":"images/placeholder.png",
       "tags":"Game Designer,Programmer",
       "link":"",
-      "docSource":""
+      "docSource":"pages/blank.html"
     },
     {
       "title":"Together We Shall Die (2023)",
       "thumbnail":"images/placeholder.png",
       "tags":"Artist,Game Designer,Sound Designer,Music Composer",
       "link":"",
-      "docSource":""
+      "docSource":"pages/blank.html"
     },
         {
       "title":"Early Prototypes (2023)",
       "thumbnail":"images/placeholder.png",
       "tags":"Programmer,Game Designer,Sound Designer",
       "link":"",
-      "docSource":""
+      "docSource":"pages/blank.html"
     }
   ]
 }
