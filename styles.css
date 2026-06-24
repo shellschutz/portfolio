@@ -375,6 +375,13 @@ div#divider{
     filter: drop-shadow(4px 4px 2px rgba(0, 0, 0, 0.5));
 }
 
+#annotated-media iframe{
+    max-width: 400px;
+    max-height: 300px;
+    aspect-ratio: initial;
+    filter: drop-shadow(4px 4px 2px rgba(0, 0, 0, 0.5));
+}
+
 #media-container{
     display: flex; 
     flex-direction: row; 
